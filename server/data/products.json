@@ -1,0 +1,90 @@
+[
+  {
+    "id": "p1",
+    "name": "Ноутбук Lenovo IdeaPad",
+    "description": "15.6 дюймов, Intel Core i5, 8GB RAM, 512GB SSD",
+    "price": 1299,
+    "category": "Ноутбуки",
+    "available": true,
+    "imageUrl": "https://placehold.co/300x200?text=Laptop",
+    "stock": 10,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "p2",
+    "name": "Смартфон Samsung Galaxy A54",
+    "description": "6.4 дюйма, 128GB, 5000mAh, Android 13",
+    "price": 499,
+    "category": "Смартфоны",
+    "available": true,
+    "imageUrl": "https://placehold.co/300x200?text=Phone",
+    "stock": 25,
+    "createdAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "p3",
+    "name": "Наушники Sony WH-1000XM5",
+    "description": "Беспроводные, шумоподавление, 30 часов работы",
+    "price": 349,
+    "category": "Аудио",
+    "available": true,
+    "imageUrl": "https://placehold.co/300x200?text=Headphones",
+    "stock": 15,
+    "createdAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "p4",
+    "name": "Планшет iPad Air",
+    "description": "10.9 дюймов, M1 chip, 64GB, Wi-Fi",
+    "price": 799,
+    "category": "Планшеты",
+    "available": true,
+    "imageUrl": "https://placehold.co/300x200?text=Tablet",
+    "stock": 8,
+    "createdAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "p5",
+    "name": "Клавиатура Logitech MX Keys",
+    "description": "Беспроводная, подсветка, мультиустройство",
+    "price": 129,
+    "category": "Периферия",
+    "available": false,
+    "imageUrl": "https://placehold.co/300x200?text=Keyboard",
+    "stock": 0,
+    "createdAt": "2024-01-05T00:00:00.000Z"
+  },
+  {
+    "id": "p6",
+    "name": "Монитор LG 27UK850",
+    "description": "27 дюймов, 4K UHD, IPS, USB-C",
+    "price": 599,
+    "category": "Мониторы",
+    "available": true,
+    "imageUrl": "https://placehold.co/300x200?text=Monitor",
+    "stock": 5,
+    "createdAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "p7",
+    "name": "Мышь Logitech MX Master 3",
+    "description": "Беспроводная, эргономичная, 7 кнопок",
+    "price": 99,
+    "category": "Периферия",
+    "available": true,
+    "imageUrl": "https://placehold.co/300x200?text=Mouse",
+    "stock": 20,
+    "createdAt": "2024-01-07T00:00:00.000Z"
+  },
+  {
+    "id": "p8",
+    "name": "SSD Samsung 970 EVO 1TB",
+    "description": "NVMe M.2, 3500MB/s чтение, 5 лет гарантии",
+    "price": 149,
+    "category": "Накопители",
+    "available": true,
+    "imageUrl": "https://placehold.co/300x200?text=SSD",
+    "stock": 30,
+    "createdAt": "2024-01-08T00:00:00.000Z"
+  }
+]
